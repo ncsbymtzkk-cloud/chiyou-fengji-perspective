@@ -32,10 +32,6 @@
 ## 安装
 
 ```bash
-# 方式1：复制到系统Skills目录
-cp -r chiyou-fengji-perspective ~/.claude/skills/
-
-# 方式2：SkillHub安装
 skillhub install https://github.com/ncsbymtzkk-cloud/chiyou-fengji-perspective
 ```
 
